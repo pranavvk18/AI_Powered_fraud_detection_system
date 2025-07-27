@@ -1,5 +1,5 @@
 # AI-POWERED FRAUD DETECTION SYSTEM
-A machine learning project for detecting fraudulent credit card transactions using ensemble methods and class imbalance handling techniques.
+A machine learning project for detecting fraudulent banking transactions using ensemble methods and class imbalance handling techniques.
 
 ## Data Preprocessing
 
