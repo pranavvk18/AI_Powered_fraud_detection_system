@@ -60,7 +60,6 @@ A machine learning project for detecting fraudulent banking transactions using e
 
 ## Key Findings
 - **Best Overall Model**: SMOTE + Stacking (MLP Meta) - F1: 0.70, AUC: 0.9948
-- **Best for Production**: SMOTE + XGBoost - Fast inference (0.043s), small size (2.07MB)
 - **Class Imbalance**: SMOTE significantly better than undersampling
 - **Feature Engineering**: Log transformation and ratio features improved model performance
 
