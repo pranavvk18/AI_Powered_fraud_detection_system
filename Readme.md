@@ -63,10 +63,6 @@ A machine learning project for detecting fraudulent banking transactions using e
 - **Class Imbalance**: SMOTE significantly better than undersampling
 - **Feature Engineering**: Log transformation and ratio features improved model performance
 
-## Business Impact
-For 1M daily transactions (1.2% fraud rate):
-- **XGBoost**: Detects 11,160/12,000 fraud cases, 1,260 false positives
-- **MLP Stacking**: Detects 10,800/12,000 fraud cases, 849 false positives (33% fewer false positives)
 
 ## Important Images
 
